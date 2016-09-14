@@ -1,1 +1,25 @@
+.facts {
+	font-style: italic;
+	border
+}
+/* add your CSS here */
 
+.listitems {
+	font-weight: bold;
+}
+
+.border {
+	border: 1px solid #efefef;
+	padding: 4px 4px 4px 4px;
+}
+
+ul {
+	list-style-type: none;
+}
+
+.card {
+	border: 1px solid #efefef;
+	width: 305px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
